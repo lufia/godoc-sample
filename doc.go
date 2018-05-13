@@ -63,5 +63,7 @@ func NewArticle(title string) *Article {
 
 // Save は、記事aの状態をデータベースに保存します。
 func (a *Article) Save() error {
+	// BUG(lufia): 保存機能は未実装です。
+	// TODO(lufia): 実装する。
 	return nil
 }
