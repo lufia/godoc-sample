@@ -1,4 +1,4 @@
-// +build darwin
+// +build darwin linux
 
 /*
 Godoc はGoのパッケージドキュメント情報をQiitaで紹介するためのパッケージです。そのままサンプルとして使えます。
